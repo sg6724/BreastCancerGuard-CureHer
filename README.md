@@ -1,4 +1,4 @@
-# **CureHer – AI-Powered Breast Cancer Diagnosis & Recommendation System**  
+# **CureHer – A Data driven Breast Cancer Diagnosis & Recommendation System**  
 
 CureHer is a **web application** designed to facilitate **early detection of breast cancer** using **AI/ML-based predictions**. By leveraging **machine learning models**, CureHer helps users assess their risk based on their symptoms and provides personalized **recommendations for further action**.  
 
