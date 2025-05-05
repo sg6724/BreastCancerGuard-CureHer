@@ -1,4 +1,4 @@
-💖 CureHer – A Data-Driven Breast Cancer Diagnosis & Recommendation System
+##💖 CureHer – A Data-Driven Breast Cancer Diagnosis & Recommendation System
 
 *CureHer* is a powerful **Data-driven web application** built to assist with the **early detection of breast cancer** and deliver **personalized healthcare recommendations**. It bridges the gap between user-reported symptoms and actionable medical guidance using **machine learning** and modern web technologies.
 
